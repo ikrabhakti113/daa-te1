@@ -1,0 +1,24 @@
+
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öƒ§³ıÿÿÿÿ8É‡ƒõ¹1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É‚ßñ8Ê‡ƒõ¹1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó°øƒıÿÿÿÿ8Ê‡ƒõ¹1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óë 08Ê‡ƒõ¹1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á÷ÍÚøÿÿÿÿ8Ê‡ƒõ¹1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ„¢l8Ê‡ƒõ¹1
+r	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øèø÷úÿÿÿÿ8Ê‡ƒõ¹1
+r	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢…¢Óúÿÿÿÿ8Ê‡ƒõ¹1
+r	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¥Ö¦şÿÿÿÿ8Ê‡ƒõ¹1
+r	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¥Ö¦şÿÿÿÿ8Ê‡ƒõ¹1
+r	java:S117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÀ·çüÿÿÿÿ8Ê‡ƒõ¹1
+r	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Çæèüÿÿÿÿ8Ê‡ƒõ¹1
+g
+java:S2184I"ECast one of the operands of this subtraction operation to a "double".(õµÉöşÿÿÿÿ8Ë‡ƒõ¹1
+n
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(…¿Å“şÿÿÿÿ8¤ˆƒõ¹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÕ«ã8§ˆƒõ¹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³á¹Øÿÿÿÿÿ8§ˆƒõ¹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÒ·ÿÿÿÿÿ8©ˆƒõ¹1
+C
+java:S11686"&Return an empty array instead of null.(¥¹ï8­ˆƒõ¹1
+o
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¼ú‘É8®ˆƒõ¹1

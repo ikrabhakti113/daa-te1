@@ -1,0 +1,8 @@
+
+n
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(…¿Å“şÿÿÿÿ8İåÔñ¹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’®Ñ±ıÿÿÿÿ8àåÔñ¹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ş­ÉÜ8àåÔñ¹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÒ·ÿÿÿÿÿ8âåÔñ¹1
+C
+java:S11686"&Return an empty array instead of null.(¥¹ï8æåÔñ¹1

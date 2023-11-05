@@ -1,0 +1,10 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åÈÄÛ8ôèšğ¹1
+n
+java:S2095!"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ä‡ƒŸıÿÿÿÿ8×Ôçò¹1
+n
+java:S2095/"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ê„¡µşÿÿÿÿ8ë¡çò¹1
+i
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(×‚Š8¿İ™ğ¹1
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8Ãİ™ğ¹1
